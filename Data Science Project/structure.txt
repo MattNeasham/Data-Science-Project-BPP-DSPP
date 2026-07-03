@@ -1,0 +1,14 @@
+•	Executive Summary, Documentation, Project Report, Impact Evaluation (300 words)
+o	Be concise, summarise the project's scope, methods, results, and significance.
+o	Tie the work together at the end with a discussion
+•	Data Infrastructure & Tools (300 words)
+o	Details on the selection and utilisation of data infrastructure and tools. Explain why choices were made and how they support the project.
+•	Data Engineering (300 words)
+o	Describe the processes involved in preparing and managing the data. This might include data cleaning, integration, and transformation techniques used.
+•	Data Visualisation & Dashboards (200 words)
+o	Highlight how these visual tools help to communicate data insights effectively.
+•	Data Analytics (400 words)
+o	Provide details on the analytical methods and algorithms applied to the data, discussing the outcomes and implications of the analysis.
+o	Discuss the project's ethical considerations, as well as bias, privacy, legal, and regulatory obligations.
+•	Referencing and Academic Support 
+o	Focus on the integration of scholarly resources that support the project's framework and analysis. Make sure citations and references are formatted correctly (Harvard referencing) and integrated into the narrative smoothly.
